@@ -24,12 +24,12 @@ public class FizzBuzz {
 }
 
 
-//    double numer1 = 1.11;
-//    double numer2 = 1.99;
-//    int rangeArray = (int) (Math.nextUp(numer2) * 100.00 - Math.nextUp(numer1) * 100.00);
+//    double number1 = 1.11;
+//    double number2 = 1.99;
+//    int rangeArray = (int) (Math.nextUp(number2) * 100.00 - Math.nextUp(number1) * 100.00);
 //    double[] newDoubleSmekalkaArray = new double[rangeArray + 1];
 //        for (int i = 0; i <= rangeArray; i++) {
-//                newDoubleSmekalkaArray[i] = (Math.round(Math.nextUp(numer1) * 100.00 + i)) / 100.00;
+//                newDoubleSmekalkaArray[i] = (Math.round(Math.nextUp(numb er1) * 100.00 + i)) / 100.00;
 //                }
 //                System.out.println("PRINT ARRAY:");
 //                System.out.println(Arrays.toString(newDoubleSmekalkaArray));
